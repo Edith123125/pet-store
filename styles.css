@@ -19,7 +19,7 @@ h1, h2 {
     color: #333;
 }
 
-/* Styling for sections */
+
 section {
     margin: 20px;
     padding: 20px;
@@ -28,7 +28,7 @@ section {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-/* Styling for links */
+
 a {
     color: #4CAF50;
     text-decoration: none;
@@ -37,7 +37,7 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Styling for the footer */
+
 footer {
     background-color: #4CAF50;
     color: white;
@@ -48,7 +48,7 @@ footer {
     width: 100%;
 }
 
-/* Table styles */
+
 table {
     width: 100%;
     border-collapse: collapse;
